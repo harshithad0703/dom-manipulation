@@ -1,4 +1,4 @@
-# **dom-manipulation
+# dom-manipulation
 
 Counter and Timer
 
