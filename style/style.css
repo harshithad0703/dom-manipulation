@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.appContainer {
+    width: fit-content;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.timerRadioContainer, .countRadioContainer {
+    margin: 10px 5px;
+}
+
+.timerRadioLabel, .countRadioLabel {
+    margin: 0 7px;
+}
+
+input, label {
+    cursor: pointer;
+}
